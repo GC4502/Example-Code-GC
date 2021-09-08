@@ -1,7 +1,7 @@
 # Title: Predicting COVID-19 Hospitalization Using Machine Learning for Early Treatment Intervention
 ## Authors: *José J. Casado Garrido, Gabriel Crúz López, Zhiyi Dong*
 
-The problem and solution for this problem are described in our accepted abstract [BHI_Abstract_Submission.pdf] (https://github.com/GC4502/Example-Code-GC/blob/main/COVID-19%20Risk%20Prediction/BHI_Abstract_Submission.pdf)
+The problem and solution for this problem are described in our accepted abstract [BHI_Abstract_Submission.pdf](https://github.com/GC4502/Example-Code-GC/blob/main/COVID-19%20Risk%20Prediction/BHI_Abstract_Submission.pdf)
 
 ## Languages and tools used
 Python v3.x
