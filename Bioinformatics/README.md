@@ -18,7 +18,7 @@ The task for this project was to analyze FASTQ files in order to assemble a geno
 # Gene Functional Annotation
 
 ## Description
-The task for this project was to annotate the functions of the gene regions predicted the gene prediction group. The github link provides a more in-depth explanation behind each functional annotation software chosen. 
+The task for this project was to annotate the functions of the gene regions predicted the gene prediction group. The github link provides a more in-depth explanation behind each functional annotation software chosen. The resulting annotated genome and GFF files were given to a comparative genomics group for further analysis.
 
 ### Languages and tools used
 - Bash scripting
