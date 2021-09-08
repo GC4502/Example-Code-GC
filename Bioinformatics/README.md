@@ -12,6 +12,7 @@ The task for this project was to analyze FASTQ files in order to assemble a geno
 - SPAdes v3.13.0
 - QUAST v5.1.0
 - KAT v2.4.2
+
 [Github link](https://github.gatech.edu/comgenomics2021/Team2-GenomeAssembly)
 
 # Gene Functional Annotation
