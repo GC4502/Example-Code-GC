@@ -1,4 +1,4 @@
-# Title: Predicting COVID-19 Hospitalization UsingMachine Learning for Early Treatment Intervention
+# Title: Predicting COVID-19 Hospitalization Using Machine Learning for Early Treatment Intervention
 ## Authors: *José J. Casado Garrido, Gabriel Crúz López, Zhiyi Dong*
 
 This document should be considered as a guide on the functionalities of the code for COVID-19 risk prediction.
