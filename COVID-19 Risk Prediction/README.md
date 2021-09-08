@@ -1,7 +1,18 @@
-# Title: Predicting COVID-19 Hospitalization UsingMachine Learning for Early Treatment Intervention
+# Title: Predicting COVID-19 Hospitalization Using Machine Learning for Early Treatment Intervention
 ## Authors: *José J. Casado Garrido, Gabriel Crúz López, Zhiyi Dong*
 
-This document should be considered as a guide on the functionalities of the code for COVID-19 risk prediction.
+The problem and solution for this problem are described in our accepted abstract [BHI_Abstract_Submission.pdf](https://github.com/GC4502/Example-Code-GC/blob/main/COVID-19%20Risk%20Prediction/BHI_Abstract_Submission.pdf)
+
+## Languages and tools used
+- Python v3.x
+- Pandas v1.0.5
+- Numpy v1.18.5
+- sklearn v0.23.1
+- tensorflow v2.4.3
+- jupyter notebooks for collaboration
+
+## I/O for each file
+This part of the document should be considered as a guide on the functionalities of the code for COVID-19 risk prediction.
 
 ### splitDataset.ipnyb
 This code is meant to serve as a first examination of the original dataset.
